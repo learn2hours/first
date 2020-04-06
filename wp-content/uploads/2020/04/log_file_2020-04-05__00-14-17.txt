@@ -1,0 +1,52 @@
+
+---Upload files---
+Content file was not uploaded. Error: 
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://learn2hours.test
+Data file = not defined!
+Widget file = /var/www/html/learn2hours/wp-content/uploads/2020/04/widgets.wie
+Customizer file = /var/www/html/learn2hours/wp-content/uploads/2020/04/customizer.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+Theme: Popular Posts - Recent Posts - Imported
+Search - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Tag Cloud - No Title - Imported
+Navigation Menu - Links - Imported
+Text - Text Widget - Imported
+
+Topbar Left : 
+
+Custom HTML - No Title - Imported
+
+Footer 1 : 
+
+Text - No Title - Imported
+
+Footer 2 : 
+
+Custom HTML - Contact Us - Imported
+
+Footer 3 : 
+
+Navigation Menu - Links - Imported
+
+Footer 4 : 
+
+Custom HTML - Open Hours - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
